@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">callphone</string>
+    <string name="button">删除</string>
+    <string name="button1">添加联系人</string>
+    <string name="image1">image1</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="删除" />
+</resources>
